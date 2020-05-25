@@ -1,0 +1,13 @@
+{
+    "token": "eyJhbGciOiJIUzUxMiJ9.eyJpc3MiOiJjZ3N2LWJhY2tvZmZpY2UiLCJzdWIiOiI1ZWM3NTA0OTVlYzUwNDZjMzU0Y2I5ODAiLCJhdXRob3JpdGllcyI6IkFETUlOIiwiYWNjb3VudCI6eyJpZCI6IjVlYzc1MDQ5NWVjNTA0NmMzNTRjYjk4MCIsIm5hbWUiOiJCcnVubyBDb3N0YSIsImxvZ2luIjoiYnJ1bm9tb3R0YWNvc3RhQGdtYWlsLmNvbSIsImVtYWlsIjoiYnJ1bm9tb3R0YWNvc3RhQGdtYWlsLmNvbSJ9LCJpYXQiOjE1OTAzNzIwODUsImV4cCI6MTU5MDQwODA4NX0.bWtexvepCLU8s5FM5UmJ4OqUdbxEoP-3Q28MOQl2zzAx1eVdHonGJiGB07k-mHY2Dv9pGIvoKMxiov-9Vkzaag",
+    "profile": {
+        "id": "5ec750495ec5046c354cb980",
+        "login": "brunomottacosta@gmail.com",
+        "email": "brunomottacosta@gmail.com",
+        "nome": "Bruno Costa",
+        "telefone": null,
+        "ufAtuacao": null,
+        "perfil": "ADMIN",
+        "criadoEm": "2020-05-22T04:08:41.675Z"
+    }
+}
